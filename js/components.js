@@ -50,8 +50,8 @@ class HeaderSection extends HTMLElement {
                         <nav class="navbar navbar-expand-lg navbar-light p-0">
 
                             <div class="logo">
-                                <a class="d-block" href="wisniowski.gda.pl">
-                                    <img loading="lazy" src="images/logo.png" alt="logo olbud">
+                                <a class="d-block" href="/wisniowski.gda.pl">
+                                    <img loading="lazy" src="/wisniowski.gda.pl/images/logo.png" alt="logo olbud">
                                 </a>
                             </div><!-- logo end -->
 
@@ -64,7 +64,7 @@ class HeaderSection extends HTMLElement {
                             <div id="navbar-collapse" class="collapse navbar-collapse">
                                 <ul class="nav navbar-nav ml-auto align-items-center">
                                     <li class="nav-item dropdown active">
-                                        <a href="wisniowski.gda.pl" class="nav-link dropdown-toggle"
+                                        <a href="/wisniowski.gda.pl" class="nav-link dropdown-toggle"
                                             data-toggle="dropdown">Strona główna</a>
                                     </li>
 
@@ -125,7 +125,7 @@ class FooterSection extends HTMLElement {
             <div class="row justify-content-between">
               <div class="col-lg-4 col-md-6 footer-widget footer-about">
                 <h3 class="widget-title">o nas</h3>
-                <img loading="lazy" width="100px" class="footer-logo" src="images/footer-logo.png" alt="olbud-logo">
+                <img loading="lazy" width="100px" class="footer-logo" src="/wisniowski.gda.pl/images/footer-logo.png" alt="olbud-logo">
                 <p>Od lat dostarczamy wysokiej klasy ogrodzenia oraz produkty z zakresu stolarki otworowej. Jesteśmy
                   autoryzowanym salonem sprzedaży marki Wiśniowski. Posiadamy największą ekspozycjię produktów Wiśniowski
                   na pomorzu.</p>
