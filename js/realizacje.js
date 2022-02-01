@@ -226,7 +226,6 @@ class RealizacjeSectionBramy extends HTMLElement {
   }
 
 }
-
 class RealizacjeSectionDrzwi extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `  
@@ -340,7 +339,6 @@ class RealizacjeSectionDrzwi extends HTMLElement {
     }
 
 }
-
 class RealizacjeSectionOgrodzenia extends HTMLElement {
   connectedCallback() {
       this.innerHTML = `  
