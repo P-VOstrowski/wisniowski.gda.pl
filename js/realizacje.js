@@ -558,8 +558,8 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
       <!-- 014 -->
       <div class="col-lg-4 col-sm-6 shuffle-item">
         <div class="project-img-container">
-          <a class="gallery-popup" href="/wisniowski.gda.pl/images/realizacje/ogrodzenia/014-ogrodzenie-klasyczne-biale-wisniowski-aw.10.81-gorc-piaskowy-ogrodzenia-gdansk-realizacja-olbud/001-biale-ogrodzenie-klasyczne-wisniowski-vario-aw.10.81-gorc-piaskowy-ogrodzenia-gdansk-olbud.jpg" aria-label="project-img">
-            <img class="img-fluid" src="/wisniowski.gda.pl/images/realizacje/ogrodzenia/014-ogrodzenie-klasyczne-biale-wisniowski-aw.10.81-gorc-piaskowy-ogrodzenia-gdansk-realizacja-olbud/001-biale-ogrodzenie-klasyczne-wisniowski-vario-aw.10.81-gorc-piaskowy-ogrodzenia-gdansk-olbud.jpg" alt="ogrodzenie klasyczne białe wiśniowski vario aw.10.81, bramy zbieżne realizacja olbud straszyn">
+          <a class="gallery-popup" href="/wisniowski.gda.pl/images/realizacje/ogrodzenia/014-ogrodzenie-wisniowski-aw.10.81-gorc-piaskowy-realizacja-olbud/001-biale-klasyczne-wisniowski-aw.10.81-gorc-ogrodzenia-gdansk-olbud.jpg" aria-label="project-img">
+            <img class="img-fluid" src="/wisniowski.gda.pl/images/realizacje/ogrodzenia/014-ogrodzenie-wisniowski-aw.10.81-gorc-piaskowy-realizacja-olbud/001-biale-klasyczne-wisniowski-aw.10.81-gorc-ogrodzenia-gdansk-olbud.jpg" alt="ogrodzenie klasyczne białe wiśniowski vario aw.10.81, bramy zbieżne realizacja olbud straszyn">
           </a>
           <div class="project-item-info">
             <div class="project-item-info-content">
