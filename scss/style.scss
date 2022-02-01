@@ -1,0 +1,33 @@
+/*!------------------------------------------------------------------
+[MAIN STYLESHEET]
+
+Template Name: Constra - Construction Html5 Template
+Description: Constra - Construction Html5 Template
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[TABLE OF CONTENTS]
+-------------------------------------------------------------------*/
+
+@import 'mixins';
+@import 'variables';
+@import 'typography';
+@import 'common';
+@import 'buttons';
+@import 'templates/navigation';
+@import 'main';
+
+
+.navbar-light ul.navbar-nav > li > a {
+    color: $color-secondary !important;
+    font-size: 13px;
+  }
+
+
+.container {
+    max-width: 1500px;
+}
+
+.box-slider-text {
+  background: rgb(161 157 157 / 82%);
+}
