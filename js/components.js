@@ -1,7 +1,7 @@
 // *top-bar
 class TopBarSection extends HTMLElement {
-    connectedCallback() {
-        this.innerHTML = `<div id="top-bar" class="top-bar">
+  connectedCallback() {
+    this.innerHTML = `<div id="top-bar" class="top-bar">
         <div class="container">
           <div class="row">
             <div class="col-lg-8 col-md-8">
@@ -34,14 +34,14 @@ class TopBarSection extends HTMLElement {
         </div>
         <!--/ Container end -->
       </div>`
-    }
+  }
 
 }
 
 // *header
 class HeaderSection extends HTMLElement {
-    connectedCallback() {
-        this.innerHTML = `
+  connectedCallback() {
+    this.innerHTML = `
         <header id="header" class="header-two">
         <div class="site-navigation">
             <div class="container">
@@ -50,8 +50,8 @@ class HeaderSection extends HTMLElement {
                         <nav class="navbar navbar-expand-lg navbar-light p-0">
 
                             <div class="logo">
-                                <a class="d-block" href="/index.html">
-                                    <img loading="lazy" src="/images/logo.png" alt="logo olbud">
+                                <a class="d-block" href="#">
+                                    <img loading="lazy" src="images/logo.png" alt="logo olbud">
                                 </a>
                             </div><!-- logo end -->
 
@@ -64,36 +64,36 @@ class HeaderSection extends HTMLElement {
                             <div id="navbar-collapse" class="collapse navbar-collapse">
                                 <ul class="nav navbar-nav ml-auto align-items-center">
                                     <li class="nav-item dropdown active">
-                                        <a href="/index-2.html" class="nav-link dropdown-toggle"
+                                        <a href="#" class="nav-link dropdown-toggle"
                                             data-toggle="dropdown">Strona główna</a>
                                     </li>
 
                                     <li class="nav-item dropdown">
-                                        <a href="/o-nas.html" class="nav-link dropdown-toggle" data-toggle="dropdown">O
+                                        <a href="o-nas.html" class="nav-link dropdown-toggle" data-toggle="dropdown">O
                                             nas</a>
                                     </li>
 
                                     <li class="nav-item dropdown">
-                                        <a href="/realizacje.html" class="nav-link dropdown-toggle"
+                                        <a href="realizacje.html" class="nav-link dropdown-toggle"
                                             data-toggle="dropdown">Realizacje </a>
                                     </li>
 
 
                                     <li class="nav-item dropdown">
-                                        <a href="/oferta.html" class="nav-link dropdown-toggle"
+                                        <a href="oferta.html" class="nav-link dropdown-toggle"
                                             data-toggle="dropdown">Oferta <i class="fa fa-angle-down"></i></a>
                                         <ul class="dropdown-menu" role="menu">
 
-                                            <li><a href="/okna-pvc-primo-wisniowski.html">okna PVC</a></li>
-                                            <li><a href="/okna-aluminiowe-futuro.html">okna aluminiowe</a></li>
-                                            <li><a href="/bramy-garazowe-segmentowe.html">bramy garażowe</a></li>
-                                            <li><a href="/bramy-garazowe-przemyslowe.html">bramy garażowe przemysłowe</a>
+                                            <li><a href="okna-pvc-primo-wisniowski.html">okna PVC</a></li>
+                                            <li><a href="okna-aluminiowe-futuro.html">okna aluminiowe</a></li>
+                                            <li><a href="bramy-garazowe-segmentowe.html">bramy garażowe</a></li>
+                                            <li><a href="bramy-garazowe-przemyslowe.html">bramy garażowe przemysłowe</a>
                                             </li>
-                                            <li><a href="/drzwi-zewnetrzne.html">drzwi zewnętrzne</a>
+                                            <li><a href="drzwi-zewnetrzne.html">drzwi zewnętrzne</a>
                                             </li>
-                                            <li><a href="/ogrodzenia-posesyjne.html">ogrodzenia posesyjne</a></li>
-                                            <li><a href="/ogrodzenia-panelowe.html">ogrodzenia panelowe</a></li>
-                                            <li><a href="/ogrodzenia-przemyslowe.html">ogrodzenia przemyslowe</a>
+                                            <li><a href="ogrodzenia-posesyjne.html">ogrodzenia posesyjne</a></li>
+                                            <li><a href="ogrodzenia-panelowe.html">ogrodzenia panelowe</a></li>
+                                            <li><a href="ogrodzenia-przemyslowe.html">ogrodzenia przemyslowe</a>
                                             </li>
 
                                         </ul>
@@ -113,19 +113,19 @@ class HeaderSection extends HTMLElement {
         <!--/ Navigation end -->
 </header>
         `
-    }
+  }
 }
 
 // *footer
 class FooterSection extends HTMLElement {
-    connectedCallback() {
-        this.innerHTML = `<footer id="footer" class="footer bg-overlay">
+  connectedCallback() {
+    this.innerHTML = `<footer id="footer" class="footer bg-overlay">
         <div class="footer-main">
           <div class="container">
             <div class="row justify-content-between">
               <div class="col-lg-4 col-md-6 footer-widget footer-about">
                 <h3 class="widget-title">o nas</h3>
-                <img loading="lazy" width="100px" class="footer-logo" src="/images/footer-logo.png" alt="olbud-logo">
+                <img loading="lazy" width="100px" class="footer-logo" src="images/footer-logo.png" alt="olbud-logo">
                 <p>Od lat dostarczamy wysokiej klasy ogrodzenia oraz produkty z zakresu stolarki otworowej. Jesteśmy
                   autoryzowanym salonem sprzedaży marki Wiśniowski. Posiadamy największą ekspozycjię produktów Wiśniowski
                   na pomorzu.</p>
@@ -159,12 +159,12 @@ class FooterSection extends HTMLElement {
               <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
                 <h3 class="widget-title">Oferta</h3>
                 <ul class="list-arrow">
-                  <li><a href="/ogrodzenia-posesyjne.html">ogrodzenia posesyjne</a></li>
-                  <li><a href="/ogrodzenia-przemyslowe.html">ogrodzenia przemysłowe</a></li>
-                  <li><a href="/ogrodzenia-panelowe.html">panele kratowe</a></li>
-                  <li><a href="/okna-pvc-primo-wisniowski.html">okna pvc primo</a></li>
-                  <li><a href="/okna-aluminiowe-futuro.html">okna aluminiowe</a></li>
-                  <li><a href="/drzwi-zewnetrzne.html">drzwi zewnętrzne</a></li>
+                  <li><a href="ogrodzenia-posesyjne.html">ogrodzenia posesyjne</a></li>
+                  <li><a href="ogrodzenia-przemyslowe.html">ogrodzenia przemysłowe</a></li>
+                  <li><a href="ogrodzenia-panelowe.html">panele kratowe</a></li>
+                  <li><a href="okna-pvc-primo-wisniowski.html">okna pvc primo</a></li>
+                  <li><a href="okna-aluminiowe-futuro.html">okna aluminiowe</a></li>
+                  <li><a href="drzwi-zewnetrzne.html">drzwi zewnętrzne</a></li>
                 </ul>
               </div><!-- Col end -->
             </div><!-- Row end -->
@@ -187,10 +187,10 @@ class FooterSection extends HTMLElement {
               <div class="col-md-6">
                 <div class="footer-menu text-center text-md-right">
                   <ul class="list-unstyled">
-                    <li><a href="/o-nas.html">O nas</a></li>
-                    <li><a href="/realizacje.html">Realizacje</a></li>
-                    <li><a href="/oferta.html">Oferta</a></li>
-                    <li><a href="/kontakt.html">Kontakt</a></li>
+                    <li><a href="o-nas.html">O nas</a></li>
+                    <li><a href="realizacje.html">Realizacje</a></li>
+                    <li><a href="oferta.html">Oferta</a></li>
+                    <li><a href="kontakt.html">Kontakt</a></li>
                   </ul>
                 </div>
               </div>
@@ -205,7 +205,7 @@ class FooterSection extends HTMLElement {
           </div><!-- Container end -->
         </div><!-- Copyright end -->
   </footer><!-- Footer end -->`
-    }
+  }
 }
 
 

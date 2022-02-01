@@ -86,9 +86,7 @@
     systemy przeładunkowe
   </button>
 
-</div>
-
-
+  </div>
 
 
 <!-- bramy makropro 2.0 start -->
@@ -145,7 +143,6 @@
 
     </div><!-- content container end -->
   </section><!-- charakterystyka makropro 2.0 section end -->
-
 
   <section id="main-container" class="main-container services-section">
 
@@ -2277,91 +2274,31 @@
 
 
 <!-- realizacje start -->
-<section id="main-container" class="main-container">
-      <div class="container">
-
-        <div class="row col-lg-12">
-
-          <div class="col-12">
-            <div class="shuffle-btn-group">
-              <label class="realizacje-label" for="bramy-slidepro">
-                <input type="radio" name="shuffle-filter" id="bramy-slidepro" value="bramy-slidepro" checked="checked">
-                <h2 class="mb-0 column-title-small">Przykładowe realizacje</h2>
-              </label>
-            </div><!-- project filter end -->
-
-
-            <div class="row shuffle-wrapper shuffle"
-              style="position: relative; overflow: hidden; height: 2281.01px; transition: height 250ms cubic-bezier(0.4, 0, 0.2, 1) 0s;">
-              <div class="col-1 shuffle-sizer"></div>
-
-
-              <!-- bramy-slidepro start -->
-              <div class="col-lg-4 col-sm-6 shuffle-item shuffle-item--visible"
-                data-groups="[&quot;bramy-slidepro&quot;,&quot;bramy-slidepro&quot;]"
-                style="position: absolute; top: 0px; left: 0px; visibility: visible; will-change: transform; opacity: 1; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
-                <div class="project-img-container">
-                  <a class="gallery-popup cboxElement" href="images/projects/project3.jpg" aria-label="project-img">
-                    <img loading="lazy" class="img-fluid" src="images/projects/project3.jpg" alt="project-img">
-                  </a>
-                  <div class="project-item-info">
-                    <div class="project-item-info-content">
-                      <h3 class="project-item-title">
-                        <a href="projects-single.html">Okna PVC Primo 82, drzwi tarasowe przesuwne HS Wiśniowski</a>
-                      </h3>
-                      <p class="project-cat">bramy-slidepro</p>
-                    </div>
-                  </div>
-                </div>
-              </div><!-- shuffle bramy-slidepro item 1 end -->
-
-              <div class="col-lg-4 col-sm-6 shuffle-item shuffle-item--visible"
-                data-groups="[&quot;bramy-slidepro&quot;,&quot;bramy-slidepro&quot;]"
-                style="position: absolute; top: 0px; left: 0px; visibility: visible; will-change: transform; opacity: 1; transform: translate(407px, 0px) scale(1); transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
-                <div class="project-img-container">
-                  <a class="gallery-popup cboxElement" href="images/projects/project3.jpg" aria-label="project-img">
-                    <img loading="lazy" class="img-fluid" src="images/projects/project3.jpg" alt="project-img">
-                  </a>
-                  <div class="project-item-info">
-                    <div class="project-item-info-content">
-                      <h3 class="project-item-title">
-                        <a href="projects-single.html">Okna PVC Wiśniowski PRIMO 82- okno łukowe, bramy-slidepro z łącznikami
-                          rurowymi</a>
-                      </h3>
-                      <p class="project-cat">bramy-slidepro</p>
-                    </div>
-                  </div>
-                </div>
-              </div><!-- shuffle bramy-slidepro item 2 end -->
-
-              <div class="col-lg-4 col-sm-6 shuffle-item shuffle-item--visible"
-                data-groups="[&quot;bramy-slidepro&quot;,&quot;bramy-slidepro&quot;]"
-                style="position: absolute; top: 0px; left: 0px; visibility: visible; will-change: transform; opacity: 1; transform: translate(815px, 0px) scale(1); transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
-                <div class="project-img-container">
-                  <a class="gallery-popup cboxElement" href="images/projects/project3.jpg" aria-label="project-img">
-                    <img loading="lazy" class="img-fluid" src="images/projects/project3.jpg" alt="project-img">
-                  </a>
-                  <div class="project-item-info">
-                    <div class="project-item-info-content">
-                      <h3 class="project-item-title">
-                        <a href="projects-single.html">Okna PVC PRIMO 82, drzwi tarasowe HS - Złoty dąb, Antracyt-
-                          Wiśniowski</a>
-                      </h3>
-                      <p class="project-cat">bramy-slidepro</p>
-                    </div>
-                  </div>
-                </div>
-              </div><!-- shuffle bramy-slidepro item 3 end -->
-
-
-            </div><!-- shuffles end -->
-          </div>
-
-
-
-        </div>
+<section id="project-area" class="project-area solid-bg">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-lg-12">
+        <h2 class="section-title">bramy garażowe wiśniowski</h2>
+        <h3 class="section-sub-title">galeria realizacji</h3>
       </div>
-</section>
+    </div>
+    <!--/ Title row end -->
+
+    <div class="row">
+      <div class="col-12">  
+       <div class="col-lg-12 shuffle-item">
+        <realizacje-section-bramy></realizacje-section-bramy>
+       </div>
+
+      </div>
+
+
+
+    </div><!-- Content row end -->
+  </div>
+
+  <!--/ Container end -->
+</section><!-- realizacje-bramy area end -->
 
 <footer-section></footer-section>
 <!-- *footer end -->
@@ -2392,11 +2329,18 @@
     <!-- Template custom -->
     <script src="js/script.js"></script>
 
+    <!-- wow -->
+    <script src="js/wow.min.js"></script>
+    <script>
+    new WOW().init();
+    </script>
+
     <!-- Lightbox -->
     <script src="plugins/lightbox/lightbox.js"></script>
 
     <!-- Components -->
     <script src="js/components.js"></script>
+    <script src="js/realizacje.js"></script>
 
   </div><!-- Body inner end -->
 </body>
