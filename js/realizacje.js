@@ -17,7 +17,7 @@ class RealizacjeSectionOkna extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/okna/001_realizacja-okna-wisniowski-pvc-primo82.html">Okna PVC Primo 82, drzwi tarasowe przesuwne HS Wiśniowski</a>
+                  <a href="realizacje/okna/001_realizacja-okna-wisniowski-pvc-primo82.html">Okna PVC Primo 82, drzwi tarasowe przesuwne HS Wiśniowski</a>
                 </h3>
                 <p class="project-cat">okna</p>
               </div>
@@ -33,7 +33,7 @@ class RealizacjeSectionOkna extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/okna/002_realizacja-okna-wisniowski-pvc-primo82-orzech.html">Okna PVC Primo 82 Orzech, okna łukowe Wiśniowski</a>
+                  <a href="realizacje/okna/002_realizacja-okna-wisniowski-pvc-primo82-orzech.html">Okna PVC Primo 82 Orzech, okna łukowe Wiśniowski</a>
                 </h3>
                 <p class="project-cat">okna</p>
               </div>
@@ -49,7 +49,7 @@ class RealizacjeSectionOkna extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/okna/003_realizacja-okna-wisniowski-pvc-primo82-zloty-dab.html">Okna PVC Primo 82 Złoty dąb, drzwi tarasowe HS PVC</a>
+                  <a href="realizacje/okna/003_realizacja-okna-wisniowski-pvc-primo82-zloty-dab.html">Okna PVC Primo 82 Złoty dąb, drzwi tarasowe HS PVC</a>
                 </h3>
                 <p class="project-cat">okna</p>
               </div>
@@ -83,7 +83,7 @@ class RealizacjeSectionBramy extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/bramy-garazowe/001_realizacja-bramy-unipro-grafitowe-wisniowski.html">Bramy garażowe unipro grafitowe Wiśniowski</a>
+                  <a href="realizacje/bramy-garazowe/001_realizacja-bramy-unipro-grafitowe-wisniowski.html">Bramy garażowe unipro grafitowe Wiśniowski</a>
                 </h3>
                 <p class="project-cat">bramy garażowe</p>
               </div>
@@ -99,7 +99,7 @@ class RealizacjeSectionBramy extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/bramy-garazowe/002_realizacja-bramy-segmentowe-makropro-modern-graphite.html">Brama segmentowa MakroPro MODERN GRAPHITE Wiśniowski</a>
+                  <a href="realizacje/bramy-garazowe/002_realizacja-bramy-segmentowe-makropro-modern-graphite.html">Brama segmentowa MakroPro MODERN GRAPHITE Wiśniowski</a>
                 </h3>
                 <p class="project-cat">bramy garażowe</p>
               </div>
@@ -115,7 +115,7 @@ class RealizacjeSectionBramy extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/bramy-garazowe/003_realizacja-brama-segmentowa-unipro-grafitowa-wisniowski.html">Brama segmentowa UniPro Anthracite Grey Wiśniowski</a>
+                  <a href="realizacje/bramy-garazowe/003_realizacja-brama-segmentowa-unipro-grafitowa-wisniowski.html">Brama segmentowa UniPro Anthracite Grey Wiśniowski</a>
                 </h3>
                 <p class="project-cat">bramy garażowe</p>
               </div>
@@ -131,7 +131,7 @@ class RealizacjeSectionBramy extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/bramy-garazowe/004_realizacja-brama-segmentowa-unipro-nowoczesna.html">Brama segmentowa automatyczna UniPro  Wiśniowski</a>
+                  <a href="realizacje/bramy-garazowe/004_realizacja-brama-segmentowa-unipro-nowoczesna.html">Brama segmentowa automatyczna UniPro  Wiśniowski</a>
                 </h3>
                 <p class="project-cat">bramy garażowe</p>
               </div>
@@ -147,7 +147,7 @@ class RealizacjeSectionBramy extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/bramy-garazowe/005_realizacja-bramy-segmentowe-unipro-grafitowe.html">Bramy segmentowe grafitowe UniPro  Wiśniowski</a>
+                  <a href="realizacje/bramy-garazowe/005_realizacja-bramy-segmentowe-unipro-grafitowe.html">Bramy segmentowe grafitowe UniPro  Wiśniowski</a>
                 </h3>
                 <p class="project-cat">bramy garażowe</p>
               </div>
@@ -163,7 +163,7 @@ class RealizacjeSectionBramy extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/bramy-garazowe/006_realizacja-brama-segmentowa-unipro-drewnopodobna-woodec.html">Brama segmentowa w kolorze drewnopodobnym UniPro Wiśniowski</a>
+                  <a href="realizacje/bramy-garazowe/006_realizacja-brama-segmentowa-unipro-drewnopodobna-woodec.html">Brama segmentowa w kolorze drewnopodobnym UniPro Wiśniowski</a>
                 </h3>
                 <p class="project-cat">bramy garażowe</p>
               </div>
@@ -179,7 +179,7 @@ class RealizacjeSectionBramy extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/bramy-garazowe/007_realizacja-bramy-segmentowe-grafitowe-unipro-wisniowski.html">Nowoczesne bramy UniPro Wiśniowski MODERN GRAPHITE</a>
+                  <a href="realizacje/bramy-garazowe/007_realizacja-bramy-segmentowe-grafitowe-unipro-wisniowski.html">Nowoczesne bramy UniPro Wiśniowski MODERN GRAPHITE</a>
                 </h3>
                 <p class="project-cat">bramy garażowe</p>
               </div>
@@ -195,7 +195,7 @@ class RealizacjeSectionBramy extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/bramy-garazowe/008_realizacja-bramy-cieple-unitherm-orzech-wisniowski.html">Ciepłe bramy UniTherm Wiśniowski Orzech</a>
+                  <a href="realizacje/bramy-garazowe/008_realizacja-bramy-cieple-unitherm-orzech-wisniowski.html">Ciepłe bramy UniTherm Wiśniowski Orzech</a>
                 </h3>
                 <p class="project-cat">bramy garażowe</p>
               </div>
@@ -211,7 +211,7 @@ class RealizacjeSectionBramy extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/bramy-garazowe/009_realizacja-brama-garazowa-unitherm-sheffield-wisniowski.html">Ciepła brama UniTherm Wiśniowski w kolorze drewnopodobnym</a>
+                  <a href="realizacje/bramy-garazowe/009_realizacja-brama-garazowa-unitherm-sheffield-wisniowski.html">Ciepła brama UniTherm Wiśniowski w kolorze drewnopodobnym</a>
                 </h3>
                 <p class="project-cat">bramy garażowe</p>
               </div>
@@ -244,7 +244,7 @@ class RealizacjeSectionDrzwi extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/drzwi/001_realizacja-drzwi-nova-aluminiowo-stalowe-wisniowski.html">Drzwi aluminiowo-stalowe NOVA z pochwytem Wiśniowski</a>
+                  <a href="realizacje/drzwi/001_realizacja-drzwi-nova-aluminiowo-stalowe-wisniowski.html">Drzwi aluminiowo-stalowe NOVA z pochwytem Wiśniowski</a>
                 </h3>
                 <p class="project-cat">drzwi</p>
               </div>
@@ -260,7 +260,7 @@ class RealizacjeSectionDrzwi extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/drzwi/002_realizacja-nowoczesne-drzwi-aluminiowe-creo-pochwyt-wisniowski.html">Drzwi aluminiowe nowoczesne z pochwytem Wiśniowski</a>
+                  <a href="realizacje/drzwi/002_realizacja-nowoczesne-drzwi-aluminiowe-creo-pochwyt-wisniowski.html">Drzwi aluminiowe nowoczesne z pochwytem Wiśniowski</a>
                 </h3>
                 <p class="project-cat">drzwi</p>
               </div>
@@ -276,7 +276,7 @@ class RealizacjeSectionDrzwi extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/drzwi/003_realizacja-drzwi-aluminiowe-creo-przeszklenie-pochwyt-wisniowski.html">Drzwi aluminiowe CREO z czytnikiem linii papilarnych Wiśniowski</a>
+                  <a href="realizacje/drzwi/003_realizacja-drzwi-aluminiowe-creo-przeszklenie-pochwyt-wisniowski.html">Drzwi aluminiowe CREO z czytnikiem linii papilarnych Wiśniowski</a>
                 </h3>
                 <p class="project-cat">drzwi</p>
               </div>
@@ -292,7 +292,7 @@ class RealizacjeSectionDrzwi extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/drzwi/004_realizacja-drzwi-aluminiowe-creo-modern-maroon.html">Drzwi aluminiowe CREO MODERN MAROON Wiśniowski</a>
+                  <a href="realizacje/drzwi/004_realizacja-drzwi-aluminiowe-creo-modern-maroon.html">Drzwi aluminiowe CREO MODERN MAROON Wiśniowski</a>
                 </h3>
                 <p class="project-cat">drzwi</p>
               </div>
@@ -308,7 +308,7 @@ class RealizacjeSectionDrzwi extends HTMLElement {
             <div class="project-item-info">
               <div class="project-item-info-content">
                 <h3 class="project-item-title">
-                  <a href="/realizacje/drzwi/005_realizacja-drzwi-aluminiowe-creo-warm-stone.html">Drzwi aluminiowe CREO z dlugim pochwytem WARM STONE Wiśniowski</a>
+                  <a href="realizacje/drzwi/005_realizacja-drzwi-aluminiowe-creo-warm-stone.html">Drzwi aluminiowe CREO z dlugim pochwytem WARM STONE Wiśniowski</a>
                 </h3>
                 <p class="project-cat">drzwi</p>
               </div>
@@ -358,7 +358,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/001_realizacja-ogrodzenie-wisniowski-nowoczesne-aw.10.106.html">Nowoczesne ogrodzenie MODERN AW.10.106 w kolorze HOME INCLUSIVE</a>
+                <a href="realizacje/ogrodzenia/001_realizacja-ogrodzenie-wisniowski-nowoczesne-aw.10.106.html">Nowoczesne ogrodzenie MODERN AW.10.106 w kolorze HOME INCLUSIVE</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -374,7 +374,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/002_realizacja-ogrodzenie-wisniowski-modern-nowoczesne-aw.10.105.html">Ogrodzenie MODERN AW.10.105, kosze gabionowe, panele kratowe</a>
+                <a href="realizacje/ogrodzenia/002_realizacja-ogrodzenie-wisniowski-modern-nowoczesne-aw.10.105.html">Ogrodzenie MODERN AW.10.105, kosze gabionowe, panele kratowe</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -390,7 +390,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/003_realizacja-ogrodzenie-poziome-wisniowski-modern-nowoczesne-aw.10.104.html">Ogrodzenie MODERN AW.10.104, zintegrowana skrzynka na listy</a>
+                <a href="realizacje/ogrodzenia/003_realizacja-ogrodzenie-poziome-wisniowski-modern-nowoczesne-aw.10.104.html">Ogrodzenie MODERN AW.10.104, zintegrowana skrzynka na listy</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -406,7 +406,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/004_realizacja-ogrodzenie-nowoczesne-wisniowski-aw.10.104-bloczki-roma-perfect.html">Ogrodzenie MODERN AW.10.104, bloczki roma perfect milos</a>
+                <a href="realizacje/ogrodzenia/004_realizacja-ogrodzenie-nowoczesne-wisniowski-aw.10.104-bloczki-roma-perfect.html">Ogrodzenie MODERN AW.10.104, bloczki roma perfect milos</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -422,7 +422,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/005_realizacja-ogrodzenie-zaluzjowe-wisniowski.html">Ogrodzenie żaluzjowe HOME INCLUSIVE AW.10.229, napęd w słupku</a>
+                <a href="realizacje/ogrodzenia/005_realizacja-ogrodzenie-zaluzjowe-wisniowski.html">Ogrodzenie żaluzjowe HOME INCLUSIVE AW.10.229, napęd w słupku</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -438,7 +438,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/006_realizacja-ogrodzenie-wisniowksi-modern-aw.10.103-wisniowski.html">Ogrodzenie posesyjne MODERN AW.10.103 dodatkowo napęd podziemny</a>
+                <a href="realizacje/ogrodzenia/006_realizacja-ogrodzenie-wisniowksi-modern-aw.10.103-wisniowski.html">Ogrodzenie posesyjne MODERN AW.10.103 dodatkowo napęd podziemny</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -454,7 +454,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/007_realizacja-ogrodzenie-wisniowksi-lux-aw.10.54-wisniowski.html">Ogrodzenie posesyjne LUX AW.10.54 dodatkowo słup MultiBox</a>
+                <a href="realizacje/ogrodzenia/007_realizacja-ogrodzenie-wisniowksi-lux-aw.10.54-wisniowski.html">Ogrodzenie posesyjne LUX AW.10.54 dodatkowo słup MultiBox</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -470,7 +470,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/008_realizacja-ogrodzenie-wisniowski-lux-bloczki-gorc-piaskowe.html">Ogrodzenie posesyjne LUX AW.10.57, bloczki JONIEC GORC PIASKOWY</a>
+                <a href="realizacje/ogrodzenia/008_realizacja-ogrodzenie-wisniowski-lux-bloczki-gorc-piaskowe.html">Ogrodzenie posesyjne LUX AW.10.57, bloczki JONIEC GORC PIASKOWY</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -486,7 +486,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/009_realizacja-ogrodzenie-kalsyczne-wisniowski-lux-aw.10.53.html">Ogrodzenie klasyczne LUX AW.10.53, furtka z elektrozaczepem</a>
+                <a href="realizacje/ogrodzenia/009_realizacja-ogrodzenie-kalsyczne-wisniowski-lux-aw.10.53.html">Ogrodzenie klasyczne LUX AW.10.53, furtka z elektrozaczepem</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -502,7 +502,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/010_realizacja-ogrodzenie-kalsyczne-wisniowski-lux-aw.10.53-bloczki-roma-classic-onyx.html">Ogrodzenie klasyczne LUX AW.10.53, furtka z elektrozaczepem</a>
+                <a href="realizacje/ogrodzenia/010_realizacja-ogrodzenie-kalsyczne-wisniowski-lux-aw.10.53-bloczki-roma-classic-onyx.html">Ogrodzenie klasyczne LUX AW.10.53, furtka z elektrozaczepem</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -518,7 +518,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/011_realizacja-ogrodzenie-kalsyczne-wisniowski-lux-aw.10.59.html">Ogrodzenie klasyczne LUX AW.10.59, segmenty przekoszone</a>
+                <a href="realizacje/ogrodzenia/011_realizacja-ogrodzenie-kalsyczne-wisniowski-lux-aw.10.59.html">Ogrodzenie klasyczne LUX AW.10.59, segmenty przekoszone</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -534,7 +534,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/012_realizacja-ogrodzenie-kalsyczne-wisniowski-style-aw.10.15.html">Ogrodzenie klasyczne STYLE AW.10.15, zintegrowana skrzynka na listy</a>
+                <a href="realizacje/ogrodzenia/012_realizacja-ogrodzenie-kalsyczne-wisniowski-style-aw.10.15.html">Ogrodzenie klasyczne STYLE AW.10.15, zintegrowana skrzynka na listy</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -550,7 +550,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/013_realizacja-ogrodzenie-pionowe-wisniowski-style-aw.10.07.html">Ogrodzenie klasyczne STYLE AW.10.07, furtka z elektrozaczepem</a>
+                <a href="realizacje/ogrodzenia/013_realizacja-ogrodzenie-pionowe-wisniowski-style-aw.10.07.html">Ogrodzenie klasyczne STYLE AW.10.07, furtka z elektrozaczepem</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -566,7 +566,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/014_realizacja-ogrodzenie-biale-wisniowski-vario-aw.10.81-bloczki-gorc-joniec.html">Ogrodzenie klasyczne VARIO AW.10.81, bramy zbieżne, bloczki JONIEC GORC PIASKOWY</a>
+                <a href="realizacje/ogrodzenia/014_realizacja-ogrodzenie-biale-wisniowski-vario-aw.10.81-bloczki-gorc-joniec.html">Ogrodzenie klasyczne VARIO AW.10.81, bramy zbieżne, bloczki JONIEC GORC PIASKOWY</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -598,7 +598,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/016_realizacja-ogrodzenie-wisniowski-classic-aw.10.05-brama-pod-katem.html">Ogrodzenie klasyczne Wiśniowski AW.10.05, brama dopasowana do pochyłości terenu</a>
+                <a href="realizacje/ogrodzenia/016_realizacja-ogrodzenie-wisniowski-classic-aw.10.05-brama-pod-katem.html">Ogrodzenie klasyczne Wiśniowski AW.10.05, brama dopasowana do pochyłości terenu</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
@@ -614,7 +614,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href="/realizacje/ogrodzenia/017_realizacja-ogrodzenie-wisniowski-classic-aw.10.05-brama-pod-katem.html">Klasyczne Wiśniowski AW.10.01, brama przesuwna automatyczna</a>
+                <a href="realizacje/ogrodzenia/017_realizacja-ogrodzenie-wisniowski-classic-aw.10.05-brama-pod-katem.html">Klasyczne Wiśniowski AW.10.01, brama przesuwna automatyczna</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
