@@ -50,7 +50,7 @@ class HeaderSection extends HTMLElement {
                         <nav class="navbar navbar-expand-lg navbar-light p-0">
 
                             <div class="logo">
-                                <a class="d-block" href="/wisniowski.gda.pl">
+                                <a class="d-block" href="https://www.wisniowski.pl/gdzie-kupic">
                                     <img loading="lazy" src="/wisniowski.gda.pl/images/logo.png" alt="logo olbud">
                                 </a>
                             </div><!-- logo end -->
