@@ -574,8 +574,8 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
       <!-- 015 -->
       <div class="col-lg-4 col-sm-6 shuffle-item">
         <div class="project-img-container">
-          <a class="gallery-popup" href="/wisniowski.gda.pl/images/realizacje/ogrodzenia/015-ogrodzenie-wisniowski-aw.10.70-classic-bloczki-grafitowe-royal-kost-bet-ogrodzenia-gdansk-realizacja-olbud/001-ogrodzenie-classic-wisniowski-aw.10.70-grafitowe-bloczki-royal-grafit-ogrodzenia-gdansk-olbud.jpg" aria-label="project-img">
-            <img class="img-fluid" src="/wisniowski.gda.pl/images/realizacje/ogrodzenia/015-ogrodzenie-wisniowski-aw.10.70-classic-bloczki-grafitowe-royal-kost-bet-ogrodzenia-gdansk-realizacja-olbud/001-ogrodzenie-classic-wisniowski-aw.10.70-grafitowe-bloczki-royal-grafit-ogrodzenia-gdansk-olbud.jpg" alt="ogrodzenie klasyczne wiśniowski classic, bloczki gładkie kost-bet royal realizacja olbud straszyn">
+          <a class="gallery-popup" href="/wisniowski.gda.pl/images/realizacje/ogrodzenia/015-aw.10.70-classic-bloczki-grafit-kost-bet-realizacja-olbud/001-wisniowski-aw.10.70-grafitowe-bloczki-royal-grafit.jpg" aria-label="project-img">
+            <img class="img-fluid" src="/wisniowski.gda.pl/images/realizacje/ogrodzenia/015-aw.10.70-classic-bloczki-grafit-kost-bet-realizacja-olbud/001-wisniowski-aw.10.70-grafitowe-bloczki-royal-grafit.jpg" alt="ogrodzenie klasyczne wiśniowski classic, bloczki gładkie kost-bet royal realizacja olbud straszyn">
           </a>
           <div class="project-item-info">
             <div class="project-item-info-content">
@@ -590,8 +590,8 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
       <!-- 016 -->
       <div class="col-lg-4 col-sm-6 shuffle-item">
         <div class="project-img-container">
-          <a class="gallery-popup" href="/wisniowski.gda.pl/images/realizacje/ogrodzenia/016-ogrodzenie-wisniowski-aw.10.05-classic-brama-pod-katem-ogrodzenia-gdansk-realizacja-olbud/001-ogrodzenie-klasyczne-wisniowski-aw.10.05-brama-pod-katem-ogrodzenia-gdansk-olbud.jpg" aria-label="project-img">
-            <img class="img-fluid" src="/wisniowski.gda.pl/images/realizacje/ogrodzenia/016-ogrodzenie-wisniowski-aw.10.05-classic-brama-pod-katem-ogrodzenia-gdansk-realizacja-olbud/001-ogrodzenie-klasyczne-wisniowski-aw.10.05-brama-pod-katem-ogrodzenia-gdansk-olbud.jpg" alt="ogrodzenie klasyczne wiśniowski classic brama dopasowana do pochyłości terenu realizacja olbud straszyn">
+          <a class="gallery-popup" href="/wisniowski.gda.pl/images/realizacje/ogrodzenia/016-ogrodzenie-wisniowski-classic-brama-pod-katem-ogrodzenia-gdansk-realizacja-olbud/001-ogrodzenie-klasyczne-wisniowski-aw.10.05-brama-pod-katem-ogrodzenia-gdansk-olbud.jpg" aria-label="project-img">
+            <img class="img-fluid" src="/wisniowski.gda.pl/images/realizacje/ogrodzenia/016-ogrodzenie-wisniowski-classic-brama-pod-katem-ogrodzenia-gdansk-realizacja-olbud/001-ogrodzenie-klasyczne-wisniowski-aw.10.05-brama-pod-katem-ogrodzenia-gdansk-olbud.jpg" alt="ogrodzenie klasyczne wiśniowski classic brama dopasowana do pochyłości terenu realizacja olbud straszyn">
           </a>
           <div class="project-item-info">
             <div class="project-item-info-content">
