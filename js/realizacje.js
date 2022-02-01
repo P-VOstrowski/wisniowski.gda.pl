@@ -580,7 +580,7 @@ class RealizacjeSectionOgrodzenia extends HTMLElement {
           <div class="project-item-info">
             <div class="project-item-info-content">
               <h3 class="project-item-title">
-                <a href=/015_realizacja-ogrodzenie-wisniowski-classic-aw.10.70-royal-grafit.html">Ogrodzenie klasyczne CLASSIC AW.10.70, bloczki KOST-BET ROYAL GRAFIT</a>
+                <a href="/wisniowski.gda.pl/realizacje/ogrodzenia/015_realizacja-ogrodzenie-wisniowski-classic-aw.10.70-royal-grafit.html">Ogrodzenie klasyczne CLASSIC AW.10.70, bloczki KOST-BET ROYAL GRAFIT</a>
               </h3>
               <p class="project-cat">ogrodzenia</p>
             </div>
