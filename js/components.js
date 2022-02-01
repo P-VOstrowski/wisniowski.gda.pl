@@ -50,7 +50,7 @@ class HeaderSection extends HTMLElement {
                         <nav class="navbar navbar-expand-lg navbar-light p-0">
 
                             <div class="logo">
-                                <a class="d-block" href="#">
+                                <a class="d-block" href="wisniowski.gda.pl">
                                     <img loading="lazy" src="images/logo.png" alt="logo olbud">
                                 </a>
                             </div><!-- logo end -->
@@ -64,7 +64,7 @@ class HeaderSection extends HTMLElement {
                             <div id="navbar-collapse" class="collapse navbar-collapse">
                                 <ul class="nav navbar-nav ml-auto align-items-center">
                                     <li class="nav-item dropdown active">
-                                        <a href="#" class="nav-link dropdown-toggle"
+                                        <a href="wisniowski.gda.pl" class="nav-link dropdown-toggle"
                                             data-toggle="dropdown">Strona główna</a>
                                     </li>
 
