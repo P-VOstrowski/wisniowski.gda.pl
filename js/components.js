@@ -74,8 +74,7 @@ class HeaderSection extends HTMLElement {
                                     </li>
 
                                     <li class="nav-item dropdown">
-                                        <a href="realizacje.html" class="nav-link dropdown-toggle"
-                                            data-toggle="dropdown">Realizacje </a>
+                                        <a class="nav-link" href="realizacje.html">Realizacje</a>
                                     </li>
 
 
